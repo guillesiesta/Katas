@@ -42,6 +42,7 @@ def ball_start():
 
 # General setup
 pygame.init()
+#print(dir(pygame))
 clock = pygame.time.Clock()
 
 # Main Window
